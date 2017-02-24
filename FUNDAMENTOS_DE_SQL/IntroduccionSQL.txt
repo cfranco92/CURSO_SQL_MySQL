@@ -1,0 +1,4 @@
+¿Qué es SQL?
+  * Lenguaje de consulta estructurado o SQL (por sus siglas en inglés
+    Structures Query Language).
+  * Un lenguaje declarativo de acceso a bases de datos relacionales.

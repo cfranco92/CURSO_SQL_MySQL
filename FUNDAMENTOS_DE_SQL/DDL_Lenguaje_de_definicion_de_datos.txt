@@ -1,0 +1,19 @@
+Las tablas son los componentes más claros.
+
+OPERACIONES:
+  * Create: Para crear una tabla voy a usar los ID, o nombres de las columnas.
+  * Alter: Es muy usada para alterar la tabla, agregando información, columnas,
+           o restricciones a la base de datos.
+  * Drop: Permite borrar columnas de la base de datos. También una tabla.
+  * Delete: Permite eliminar registros. Normalmente filas seleccionadas.
+  * Truncate: Casi nunca se utiliza, porque es una operación inmediatamente
+              elimina la tabla sin importar lo que tenga en ella.
+              Dependiendo el motor tiene algunos otros parametros.
+  * Select: Ver registros. Permite filtrar la información.
+  * Insert: Insertar registros. Le puedo colocar restricciones.
+  * Update: Actualizar registros. Cambio de un registro, búsqueda y actualización.
+
+La integración referencial son la relaciones en las tablas.
+Permite saber que si elimino un registro en una tabla puede afectarme otras.
+
+Siempre hacemos relación con el ID.

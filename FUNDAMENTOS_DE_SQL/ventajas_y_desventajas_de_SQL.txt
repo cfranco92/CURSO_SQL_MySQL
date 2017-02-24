@@ -1,0 +1,24 @@
+VENTAJAS
+--------
+* Son transaccionales y no se perderá ningún dato.
+* Existe algebra y cálculo relacional.
+* Estandares SQL.
+* Fundamentos relacionales.
+* Procedimientos almacenados en diferentes lenguajes.
+
+
+DESVENTAJAS
+-----------
+* Realizar cambios a una tabla muy grande puede ser un gran dolor de cabeza.
+* Pueden tener problemas de performance dependiendo de discos duros y otras
+  operaciones IO.
+* No todas tienen integridad referencial.
+* No son compatibles entre BDs.
+
+
+¿QUIÉN LAS USA?
+---------------
+* Bancos.
+* Operaciones de pagos.
+* Capa de persistencia definida (modelo de usuario).
+* Donde queramos usarlas.

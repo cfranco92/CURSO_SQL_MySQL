@@ -1,0 +1,7 @@
+-> DB2                       -> Oracle
+*  Firebird                  -> PostgreSQL
+*  HSQL                      *  Progress
+*  Informix                  *  PervasiveSQL
+*  Interbase                 -> SQLite
+*  MariaDB                   *  Sybase ASE
+-> Microsoft SQL Server      -> MySQL
